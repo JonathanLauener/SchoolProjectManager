@@ -1,0 +1,14 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: #F4C2C2;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.logout{
+    text-align: right;
+}
